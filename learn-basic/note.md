@@ -1,4 +1,4 @@
-#Node JS
+# Node JS
 - cài nodemon cho ts:
     - install nodemon, ts-node
     - thêm 
@@ -17,7 +17,7 @@
     ```sh 
         npm uninstall package-name 
     ```
-#Docker
+# Docker
 - FROM ten-thu-vien:version (chọn version trên dockerhub trùng version với code mình dùng)
 - docker build -t app .
 - docker images ls
